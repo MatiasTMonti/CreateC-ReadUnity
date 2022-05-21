@@ -1,0 +1,7 @@
+C:\Users\matia\Desktop\WriteMap\WriteMap\bin\Debug\WriteMap.exe.config
+C:\Users\matia\Desktop\WriteMap\WriteMap\bin\Debug\WriteMap.exe
+C:\Users\matia\Desktop\WriteMap\WriteMap\bin\Debug\WriteMap.pdb
+C:\Users\matia\Desktop\WriteMap\WriteMap\obj\Debug\WriteMap.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\WriteMap\WriteMap\obj\Debug\WriteMap.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\WriteMap\WriteMap\obj\Debug\WriteMap.exe
+C:\Users\matia\Desktop\WriteMap\WriteMap\obj\Debug\WriteMap.pdb
